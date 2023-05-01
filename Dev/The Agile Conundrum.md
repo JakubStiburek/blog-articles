@@ -34,7 +34,7 @@ What brings specificity to the table are agile frameworks. Unlike the manifesto 
 
 For example XP (extreme programming) comes up with things like sprint, pair programming, mob code review, mob programming etc. SCRUM comes up with its ceremonies aka meetings. Kanban is the ubiquitous project board.
 
-In an essence the Agile Manifesto is exactly what manifestos are an idea. The frameworks are then exercising the idea, interpreting the principles and values and  putting them to practice.
+In an essence the Agile Manifesto is exactly what manifestos are, an idea. The frameworks are then exercising the idea, interpreting the principles and values and  putting them to practice.
 
 ## SCRUM Ceremonies aren't Agile
 Unfortunately SCRUM is almost synonymous to agile these days. Due to that people who would sincerely like to make agile work for their team and coworkers have often no choice but to do SCRUM.
@@ -51,7 +51,7 @@ And here's the definition of ritual which I believe to be very similar to a cere
 
 Here's a list of usual SCRUM ceremonies: daily standup, refinement, planning, retrospective, demo. 
 
-Standup can last 5-20 minutes the other meetings can take 20 minutes to 2 hours. Often it's about 4-5 hours each sprint doing meta-work = working in order to eventually actually work on the software. On top of that many organisations and teams have company-wide meetings, various guild meetings, interest-groups meetings etc. And to take it to the extreme these meetings tend to be longer when working remotely because of technical problems and many people in one video-call just slow everything down. And don't get me started on the mental toll that these activities have on people. The ceremonies stress the same muscle as the work we do - the brain.
+Standup can last 5-20 minutes the other meetings can take 20 minutes to 2 hours. Often it's about 4-5 hours each sprint doing meta-work = working in order to eventually actually work on the software. On top of that many organisations and teams have company-wide meetings, various guild meetings, interest-groups meetings etc. And to take it to the extreme these meetings tend to be longer when working remotely because of technical problems and the fact that many people in one video-call just slow everything down. And don't get me started on the mental toll that these activities have on people. The ceremonies stress the same muscle as the work we do - the brain.
 
 > Simplicity--the art of maximising the amount of work not done--is essential.
 
@@ -71,4 +71,4 @@ SCRUM ceremonies are not necessary and definitely not agile. They as a core part
 - **don't do any meta-work.** Concentrate maximum of your time on developing and/or discussing the software.
 - **focus on building your own methodology**, your own practices and let them naturally surface. Like the nature of the product, the work itself is volatile. Using a prefabricated framework leads to apathy, inefficiency and bad software. **Abolish ceremonies.**
 - **Consider moving away from sprints.** They don't bring much value to software developers or users. They bring value to the management because they introduce subtle deadlines and a way how to measure (although inefficiently) work. Develop whatever you agree on is most important and when you are done just pick another feature and show the finished work to the users.
-- lastly **not work in an agile way doesn't necessarily mean that you have to get back to waterfall.** Agile is relying heavily on the face-to-face communication. It can be hard to work that way remotely for example. Just imagine open-source software being built in an agile way. It doesn't work. Agile is meant for small concentrated teams. **Don't be afraid to embrace a different approach.**
+- lastly **not working in an agile way doesn't necessarily mean that you have to get back to waterfall.** Agile is relying heavily on the face-to-face communication. It can be hard to work that way remotely for example. Just imagine open-source software being built in an agile way. It doesn't work. Agile is meant for small concentrated teams. **Don't be afraid to embrace a different approach.** 
