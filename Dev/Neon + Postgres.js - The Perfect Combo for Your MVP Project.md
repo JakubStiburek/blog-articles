@@ -1,3 +1,10 @@
+---
+tags:
+	- en
+	- database
+	- softwareDesign
+	- Neon
+---
 # Neon + Postgres.js: The Perfect Combo for Your MVP Project
 I was choosing the tech stack for a small MVP project. I went with a familiar backend framework [Nest.js](https://nestjs.com/). But I wanted to do something new regarding the DB. 
 
